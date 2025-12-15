@@ -4,6 +4,15 @@ To preprocess and organize image data for training and testing
 To train a CNN model for accurate emotion classification
 To evaluate model performance using accuracy and loss metrics
 
+Technologies Used:
+1.Python
+2.TensorFlow & Keras
+3.NumPy
+4.Pandas
+5.OpenCV
+6.Matplotlib
+7.Jupyter Notebook
+
 step - 1 git clone https://github.com/your-username/Face-Emotion-Recognition.git
 
 step - 2 Install required libraries:
